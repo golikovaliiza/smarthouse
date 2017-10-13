@@ -1,0 +1,41 @@
+input {
+   background-color: cyan;
+}
+input:hover {
+   background-color: white
+}
+.create {
+   background-color: lightgrey;
+   width: 120px;
+   height: 150px;
+   border: outset 5px #ecb4b0;
+}
+.crea {
+   background-color: #ecb4b0;
+}
+#on:hover {
+   background-color: white
+}
+#off:hover {
+   background-color: white
+}
+#div {
+   float: right;
+}
+#TV, #alarm, #facecontrol {
+   background-color: pink;
+   width: 300px;
+   height: 300px;
+   border: outset 10px cyan;
+   float: left;
+   display: none;
+}
+#x {
+   color: white;
+   background-color: crimson;
+   margin-top: 236px;
+   margin-left: 269px;
+}
+#TV {
+   height: 340px;
+}
